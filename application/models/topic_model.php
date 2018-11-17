@@ -26,5 +26,9 @@ class Topic_model extends CI_Model {
     return $this->db->insert_id();
     //echo $this->db->last_query();
   }
+
+  public function remove($topic_id) {
+    $this->db->delete('topic', array('id' => $topic_id));
+  }
 }
  ?>

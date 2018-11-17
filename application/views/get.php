@@ -7,6 +7,7 @@
     </div>
   </article>
   <div>
-    <a href="/board_codeigniter/index.php/topic/add" class="btn">추가</a>
+    <a href="./add" class="btn">ADD</a>
+    <a href="./remove/<?=$topic->id?>" class="btn">REMOVE</a>
   </div>
 </div>

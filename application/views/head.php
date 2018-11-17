@@ -38,4 +38,13 @@
         </div>
       </div>
       <div class="container">
+        <?php
+        if ($this->config->item('is_dev')) {
+        ?>
+        <div class="well">
+          This page is a development environment
+        </div>
+        <?php
+        }
+        ?>
         <div class="row-fluid">

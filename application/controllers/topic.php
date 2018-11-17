@@ -6,6 +6,7 @@ class Topic extends CI_Controller {
     parent::__construct();
     $this->load->database();
     $this->load->model('topic_model');
+    log_message('debug', '***topic init');
   }
 	public function index()
 	{
@@ -16,12 +17,21 @@ class Topic extends CI_Controller {
 	}
 
   public function get($id) {
+    log_message('debug', '***execute get function');
+    log_message('debug', '***loading head');
     $this->_head();
 
     $this->load->helper(array('url', 'HTML', 'korean'));
     $topic = $this->topic_model->get($id);
+    if (empty($topic)) {
+      log_message('error', 'There is no topic');
+      show_error('There is no topic');
+    }
+    //log_message('info', var_export($topic, 1));
+    log_message('debug', '***loading get view');
     $this->load->view('get', array('topic'=>$topic));
 
+    log_message('debug', '***loading footer');
     $this->load->view('footer');
   }
 
@@ -43,7 +53,14 @@ class Topic extends CI_Controller {
     $this->load->view('footer');
   }
 
+  public function remove($topic_id) {
+    $this->topic_model->remove($topic_id);
+    $this->load->helper('url');
+    redirect('/topic/');
+  }
+
   public function _head() {
+    $this->load->config('myconfig');
     $this->load->view('head');
     $topics = $this->topic_model->gets();
     $this->load->view('topic_list', array('topics' => $topics));

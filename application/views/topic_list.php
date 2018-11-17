@@ -3,7 +3,7 @@
   <?php
   foreach ($topics as $entry) {
   ?>
-    <li> <a href="/board_codeigniter/index.php/topic/<?=$entry->id?>"><?= $entry->title ?></a></li>
+    <li> <a href="./<?=$entry->id?>"><?= $entry->title ?></a></li>
   <?php
   }
   ?>
