@@ -95,6 +95,13 @@ class Topic extends CI_Controller {
   }
 
   public function add() {
+    if (true) {
+      $this->load->helper('url');
+      redirect('/auth/login');
+    } else {
+
+    }
+
     $this->_head();
 
     $this->load->library('form_validation');
@@ -119,6 +126,7 @@ class Topic extends CI_Controller {
   }
 
   public function _head() {
+    //var_dump($this->session->userdata());
     $this->load->config('myconfig');
     $this->load->view('head');
     $topics = $this->topic_model->gets();
