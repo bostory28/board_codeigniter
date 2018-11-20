@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Topic extends CI_Controller {
+class Topic extends My_Controller {
   function __construct() {
     parent::__construct();
     $this->load->database();
@@ -11,15 +11,17 @@ class Topic extends CI_Controller {
 	public function index()
 	{
     $this->_head();
+    $this->_sidebar();
 
     $this->load->view('main');
-	  $this->load->view('footer');
+	  $this->_footer();
 	}
 
   public function get($id) {
     log_message('debug', '***execute get function');
     log_message('debug', '***loading head');
     $this->_head();
+    $this->_sidebar();
 
     $this->load->helper(array('url', 'HTML', 'korean'));
     $topic = $this->topic_model->get($id);
@@ -32,7 +34,7 @@ class Topic extends CI_Controller {
     $this->load->view('get', array('topic'=>$topic));
 
     log_message('debug', '***loading footer');
-    $this->load->view('footer');
+    $this->_footer();
   }
 
   public function upload_receive_from_ck() {
@@ -90,8 +92,9 @@ class Topic extends CI_Controller {
 
   public function upload_form() {
     $this->_head();
+    $this->_sidebar();
     $this->load->view('upload_form');
-    $this->load->view('footer');
+    $this->_footer();
   }
 
   public function add() {
@@ -101,6 +104,7 @@ class Topic extends CI_Controller {
     }
 
     $this->_head();
+    $this->_sidebar();
 
     $this->load->library('form_validation');
     $this->form_validation->set_rules('title', '제목', 'required');
@@ -114,20 +118,12 @@ class Topic extends CI_Controller {
       redirect('/topic/'.$topic_id);
 		}
 
-    $this->load->view('footer');
+    $this->_footer();
   }
 
   public function remove($topic_id) {
     $this->topic_model->remove($topic_id);
     $this->load->helper('url');
     redirect('/topic/');
-  }
-
-  public function _head() {
-    //var_dump($this->session->userdata());
-    $this->load->config('myconfig');
-    $this->load->view('head');
-    $topics = $this->topic_model->gets();
-    $this->load->view('topic_list', array('topics' => $topics));
   }
 }

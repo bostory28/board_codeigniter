@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Auth extends CI_Controller {
+class Auth extends My_Controller {
   function __construct() {
     parent::__construct();
   }
@@ -9,7 +9,7 @@ class Auth extends CI_Controller {
     $this->load->config('myconfig');
     $this->load->view('head');
     $this->load->view('login');
-    $this->load->view('footer');
+    $this->_footer();
   }
 
   public function authentication() {
@@ -29,6 +29,6 @@ class Auth extends CI_Controller {
   public function logout() {
     $this->session->sess_destroy();
     $this->load->helper('url');
-    redirect('/');
+    redirect('/topic/');
   }
 }
