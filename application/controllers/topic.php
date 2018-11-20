@@ -95,11 +95,9 @@ class Topic extends CI_Controller {
   }
 
   public function add() {
-    if (true) {
+    if (!$this->session->userdata('is_login')) {
       $this->load->helper('url');
       redirect('/auth/login');
-    } else {
-
     }
 
     $this->_head();

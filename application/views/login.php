@@ -7,13 +7,20 @@
         <div class="control-group">
           <label class="control-label" for="inputEmail">Username</label>
           <div class="controls">
-            <input type="text" id="username" placeholder="Username">
+            <input type="text" name="username" id="username" placeholder="Username">
+            <?php
+              if ($this->session->flashdata('message')) {
+            ?>
+                <font color="red">failed login</font>
+            <?php
+              }
+            ?>
           </div>
         </div>
         <div class="control-group">
           <label class="control-label" for="inputPassword">Password</label>
           <div class="controls">
-            <input type="password" id="password" placeholder="Password">
+            <input type="password" name="password" id="password" placeholder="Password">
           </div>
         </div>
     </div>

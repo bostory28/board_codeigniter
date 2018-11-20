@@ -321,3 +321,379 @@ DEBUG - 2018-11-20 00:43:07 --> Config file loaded: C:\Apache24\htdocs\board_cod
 DEBUG - 2018-11-20 00:43:07 --> ***loading get view
 DEBUG - 2018-11-20 00:43:07 --> ***loading footer
 DEBUG - 2018-11-20 00:43:07 --> Total execution time: 0.2468
+DEBUG - 2018-11-20 00:44:35 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 00:44:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 00:44:35 --> ***topic init
+DEBUG - 2018-11-20 00:44:35 --> ***execute get function
+DEBUG - 2018-11-20 00:44:35 --> ***loading head
+DEBUG - 2018-11-20 00:44:35 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 00:44:35 --> ***loading get view
+DEBUG - 2018-11-20 00:44:35 --> ***loading footer
+DEBUG - 2018-11-20 00:44:35 --> Total execution time: 0.2477
+DEBUG - 2018-11-20 00:44:36 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 00:44:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 00:44:36 --> ***topic init
+DEBUG - 2018-11-20 00:44:36 --> ***execute get function
+DEBUG - 2018-11-20 00:44:36 --> ***loading head
+DEBUG - 2018-11-20 00:44:36 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 00:44:36 --> ***loading get view
+DEBUG - 2018-11-20 00:44:36 --> ***loading footer
+DEBUG - 2018-11-20 00:44:36 --> Total execution time: 0.1675
+DEBUG - 2018-11-20 03:43:36 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:43:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:43:36 --> ***topic init
+DEBUG - 2018-11-20 03:43:36 --> ***execute get function
+DEBUG - 2018-11-20 03:43:36 --> ***loading head
+DEBUG - 2018-11-20 03:43:36 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:43:36 --> ***loading get view
+DEBUG - 2018-11-20 03:43:36 --> ***loading footer
+DEBUG - 2018-11-20 03:43:36 --> Total execution time: 0.1828
+DEBUG - 2018-11-20 03:43:37 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:43:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:43:37 --> ***topic init
+DEBUG - 2018-11-20 03:43:37 --> ***execute get function
+DEBUG - 2018-11-20 03:43:37 --> ***loading head
+DEBUG - 2018-11-20 03:43:37 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:43:37 --> ***loading get view
+DEBUG - 2018-11-20 03:43:37 --> ***loading footer
+DEBUG - 2018-11-20 03:43:37 --> Total execution time: 0.1878
+DEBUG - 2018-11-20 03:43:38 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:43:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:43:38 --> ***topic init
+DEBUG - 2018-11-20 03:43:38 --> ***execute get function
+DEBUG - 2018-11-20 03:43:38 --> ***loading head
+DEBUG - 2018-11-20 03:43:38 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:43:38 --> ***loading get view
+DEBUG - 2018-11-20 03:43:38 --> ***loading footer
+DEBUG - 2018-11-20 03:43:38 --> Total execution time: 0.1889
+DEBUG - 2018-11-20 03:43:39 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:43:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:43:39 --> ***topic init
+DEBUG - 2018-11-20 03:43:39 --> ***execute get function
+DEBUG - 2018-11-20 03:43:39 --> ***loading head
+DEBUG - 2018-11-20 03:43:39 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:43:39 --> ***loading get view
+DEBUG - 2018-11-20 03:43:39 --> ***loading footer
+DEBUG - 2018-11-20 03:43:39 --> Total execution time: 0.1806
+DEBUG - 2018-11-20 03:43:39 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:43:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:43:40 --> ***topic init
+DEBUG - 2018-11-20 03:43:40 --> ***execute get function
+DEBUG - 2018-11-20 03:43:40 --> ***loading head
+DEBUG - 2018-11-20 03:43:40 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:43:40 --> ***loading get view
+DEBUG - 2018-11-20 03:43:40 --> ***loading footer
+DEBUG - 2018-11-20 03:43:40 --> Total execution time: 0.1758
+DEBUG - 2018-11-20 03:45:32 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:45:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:45:32 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:45:32 --> Total execution time: 0.1170
+DEBUG - 2018-11-20 03:45:37 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:45:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:45:37 --> Total execution time: 0.0965
+DEBUG - 2018-11-20 03:48:12 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:48:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:48:12 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:48:12 --> Total execution time: 0.1037
+DEBUG - 2018-11-20 03:48:14 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:48:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:48:14 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:48:14 --> Total execution time: 0.1175
+DEBUG - 2018-11-20 03:48:18 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:48:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:48:18 --> Total execution time: 0.0881
+DEBUG - 2018-11-20 03:48:22 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:48:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:48:22 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:48:22 --> Total execution time: 0.1153
+DEBUG - 2018-11-20 03:48:58 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:48:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:48:58 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:48:58 --> Total execution time: 0.1068
+DEBUG - 2018-11-20 03:49:04 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:49:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:49:04 --> 
+DEBUG - 2018-11-20 03:49:04 --> Total execution time: 0.1107
+DEBUG - 2018-11-20 03:50:53 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:50:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:50:53 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:50:53 --> Total execution time: 0.0905
+DEBUG - 2018-11-20 03:50:54 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:50:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:50:54 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 03:50:54 --> Total execution time: 0.1039
+DEBUG - 2018-11-20 03:50:57 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 03:50:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 03:50:57 --> bostory
+DEBUG - 2018-11-20 03:50:57 --> Total execution time: 0.1669
+DEBUG - 2018-11-20 09:11:36 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:11:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:11:36 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:11:36 --> Total execution time: 0.7462
+DEBUG - 2018-11-20 09:11:36 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:11:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:11:36 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:11:36 --> Total execution time: 0.1091
+DEBUG - 2018-11-20 09:11:40 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:11:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:11:45 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:11:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:11:45 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:11:45 --> Total execution time: 0.1052
+DEBUG - 2018-11-20 09:11:57 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:11:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:11:57 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:11:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:11:57 --> ***topic init
+DEBUG - 2018-11-20 09:11:57 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:11:57 --> Total execution time: 0.2243
+DEBUG - 2018-11-20 09:12:01 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:12:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:12:01 --> ***topic init
+DEBUG - 2018-11-20 09:12:01 --> ***execute get function
+DEBUG - 2018-11-20 09:12:01 --> ***loading head
+DEBUG - 2018-11-20 09:12:01 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:12:01 --> ***loading get view
+DEBUG - 2018-11-20 09:12:01 --> ***loading footer
+DEBUG - 2018-11-20 09:12:01 --> Total execution time: 0.2001
+DEBUG - 2018-11-20 09:12:03 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:12:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:12:03 --> ***topic init
+DEBUG - 2018-11-20 09:12:03 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:12:03 --> Total execution time: 0.1303
+DEBUG - 2018-11-20 09:12:31 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:12:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:12:32 --> ***topic init
+DEBUG - 2018-11-20 09:12:32 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:12:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:12:32 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:12:32 --> Total execution time: 0.0968
+DEBUG - 2018-11-20 09:15:29 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:15:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:15:29 --> ***topic init
+DEBUG - 2018-11-20 09:15:29 --> ***execute get function
+DEBUG - 2018-11-20 09:15:29 --> ***loading head
+DEBUG - 2018-11-20 09:15:29 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:15:29 --> ***loading get view
+DEBUG - 2018-11-20 09:15:29 --> ***loading footer
+DEBUG - 2018-11-20 09:15:29 --> Total execution time: 0.1975
+DEBUG - 2018-11-20 09:15:33 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:15:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:15:33 --> ***topic init
+DEBUG - 2018-11-20 09:15:33 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:15:33 --> Total execution time: 0.1438
+DEBUG - 2018-11-20 09:30:36 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:30:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:30:36 --> ***topic init
+DEBUG - 2018-11-20 09:30:36 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:30:36 --> Total execution time: 0.1839
+DEBUG - 2018-11-20 09:31:04 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:04 --> ***topic init
+DEBUG - 2018-11-20 09:31:04 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:04 --> Total execution time: 0.1360
+DEBUG - 2018-11-20 09:31:12 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:12 --> ***topic init
+DEBUG - 2018-11-20 09:31:12 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:12 --> Total execution time: 0.1046
+DEBUG - 2018-11-20 09:31:13 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:13 --> ***topic init
+DEBUG - 2018-11-20 09:31:13 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:13 --> Total execution time: 0.1045
+DEBUG - 2018-11-20 09:31:14 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:14 --> Total execution time: 0.0986
+DEBUG - 2018-11-20 09:31:17 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:17 --> ***topic init
+DEBUG - 2018-11-20 09:31:17 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:17 --> Total execution time: 0.1119
+DEBUG - 2018-11-20 09:31:21 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:21 --> ***topic init
+DEBUG - 2018-11-20 09:31:21 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:21 --> Total execution time: 0.1127
+DEBUG - 2018-11-20 09:31:22 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:22 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:22 --> Total execution time: 0.1025
+DEBUG - 2018-11-20 09:31:24 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:24 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:24 --> Total execution time: 0.1207
+DEBUG - 2018-11-20 09:31:25 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:25 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:25 --> Total execution time: 0.0835
+DEBUG - 2018-11-20 09:31:26 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:31:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:31:26 --> ***topic init
+DEBUG - 2018-11-20 09:31:26 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:31:26 --> Total execution time: 0.1112
+DEBUG - 2018-11-20 09:33:03 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:33:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:33:03 --> ***topic init
+DEBUG - 2018-11-20 09:33:03 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:33:03 --> Total execution time: 0.1489
+DEBUG - 2018-11-20 09:33:06 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:33:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:33:06 --> Total execution time: 0.0885
+DEBUG - 2018-11-20 09:33:07 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:33:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:33:07 --> ***topic init
+DEBUG - 2018-11-20 09:33:07 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:33:07 --> Total execution time: 0.1205
+DEBUG - 2018-11-20 09:34:09 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:09 --> ***topic init
+DEBUG - 2018-11-20 09:34:09 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:09 --> Total execution time: 0.1411
+DEBUG - 2018-11-20 09:34:11 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:11 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:11 --> ***topic init
+DEBUG - 2018-11-20 09:34:11 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:11 --> Total execution time: 0.1028
+DEBUG - 2018-11-20 09:34:14 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:14 --> ***topic init
+DEBUG - 2018-11-20 09:34:14 --> ***execute get function
+DEBUG - 2018-11-20 09:34:14 --> ***loading head
+DEBUG - 2018-11-20 09:34:14 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:14 --> ***loading get view
+DEBUG - 2018-11-20 09:34:14 --> ***loading footer
+DEBUG - 2018-11-20 09:34:14 --> Total execution time: 0.1815
+DEBUG - 2018-11-20 09:34:15 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:15 --> ***topic init
+DEBUG - 2018-11-20 09:34:15 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:15 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:16 --> Total execution time: 0.0913
+DEBUG - 2018-11-20 09:34:19 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:20 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:20 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:20 --> Total execution time: 0.1022
+DEBUG - 2018-11-20 09:34:26 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:26 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:26 --> Total execution time: 0.0913
+DEBUG - 2018-11-20 09:34:46 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:47 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:47 --> Total execution time: 0.1066
+DEBUG - 2018-11-20 09:34:47 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:47 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:47 --> Total execution time: 0.0935
+DEBUG - 2018-11-20 09:34:49 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:49 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:34:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:34:50 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:34:50 --> Total execution time: 0.1475
+DEBUG - 2018-11-20 09:37:13 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:13 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:37:13 --> Total execution time: 0.1027
+DEBUG - 2018-11-20 09:37:18 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:18 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:18 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:37:18 --> Total execution time: 0.0926
+DEBUG - 2018-11-20 09:37:41 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:41 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:37:41 --> Total execution time: 0.0897
+DEBUG - 2018-11-20 09:37:42 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:42 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:37:42 --> Total execution time: 0.0955
+DEBUG - 2018-11-20 09:37:46 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:47 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:37:47 --> Total execution time: 0.1181
+DEBUG - 2018-11-20 09:37:48 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:48 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:37:48 --> Total execution time: 0.1008
+DEBUG - 2018-11-20 09:37:48 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:49 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:37:49 --> Total execution time: 0.0996
+DEBUG - 2018-11-20 09:37:59 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:37:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:37:59 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:37:59 --> Total execution time: 0.1104
+DEBUG - 2018-11-20 09:38:04 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:04 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:38:04 --> Total execution time: 0.0892
+DEBUG - 2018-11-20 09:38:06 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:06 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:38:06 --> Total execution time: 0.0990
+DEBUG - 2018-11-20 09:38:06 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:06 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:38:06 --> Total execution time: 0.0959
+DEBUG - 2018-11-20 09:38:09 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:09 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:09 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:38:09 --> Total execution time: 0.1121
+DEBUG - 2018-11-20 09:38:39 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:39 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:38:39 --> Total execution time: 0.0808
+DEBUG - 2018-11-20 09:38:41 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:41 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:41 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:38:41 --> Total execution time: 0.0935
+DEBUG - 2018-11-20 09:38:47 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:47 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:47 --> ***topic init
+DEBUG - 2018-11-20 09:38:47 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:38:47 --> Total execution time: 0.1198
+DEBUG - 2018-11-20 09:38:50 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:50 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:38:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:38:50 --> ***topic init
+DEBUG - 2018-11-20 09:38:50 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:38:50 --> Total execution time: 0.1056
+DEBUG - 2018-11-20 09:40:02 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:40:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:40:03 --> ***topic init
+DEBUG - 2018-11-20 09:40:03 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:40:03 --> Total execution time: 0.1132
+DEBUG - 2018-11-20 09:40:04 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:40:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:40:04 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:40:04 --> Total execution time: 0.1104
+DEBUG - 2018-11-20 09:40:07 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:40:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:40:07 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:40:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:40:07 --> ***topic init
+DEBUG - 2018-11-20 09:40:07 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:40:07 --> Total execution time: 0.1966
+DEBUG - 2018-11-20 09:40:08 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:40:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:40:09 --> UTF-8 Support Enabled
+DEBUG - 2018-11-20 09:40:09 --> No URI present. Default controller set.
+DEBUG - 2018-11-20 09:40:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-20 09:40:09 --> ***topic init
+DEBUG - 2018-11-20 09:40:09 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-20 09:40:09 --> Total execution time: 0.1198

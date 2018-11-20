@@ -13,6 +13,22 @@ class Auth extends CI_Controller {
   }
 
   public function authentication() {
-    //var_dump($this->config->item('authentication'));
+    $authentication = $this->config->item('authentication');
+    if ($this->input->post('username') == $authentication['username'] &&
+        $this->input->post('password') == $authentication['password']) {
+      $this->session->set_userdata('is_login', true);
+      $this->load->helper('url');
+      redirect("./topic/add");
+    } else {
+      $this->session->set_flashdata('message', 'failed login');
+      $this->load->helper('url');
+      redirect('/auth/login');
+    }
+  }
+
+  public function logout() {
+    $this->session->sess_destroy();
+    $this->load->helper('url');
+    redirect('/');
   }
 }
