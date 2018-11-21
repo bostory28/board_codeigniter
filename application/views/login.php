@@ -7,7 +7,7 @@
         <div class="control-group">
           <label class="control-label" for="inputEmail">Username</label>
           <div class="controls">
-            <input type="text" name="username" id="username" placeholder="Username">
+            <input type="text" name="email" id="email" placeholder="email">
             <?php
               if ($this->session->flashdata('message')) {
             ?>

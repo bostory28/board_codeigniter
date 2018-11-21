@@ -31,19 +31,19 @@
             <!-- Everything you want hidden at 940px or less, place within here -->
             <div class="nav-collapse collapse">
               <ul class="nav pull-right">
-                <li>
                   <?php
                   if ($this->session->userdata('is_login')) {
                   ?>
-                    <a href="../auth/logout">Logout</a>
+                    <li><a href="../auth/logout">Logout</a></li>
                   <?php
                   } else {
                   ?>
-                    <a href="../auth/login">Login</a>
+                    <li><a href="../auth/login">Login</a></li>
+                    <li><a href="../auth/register">Register</a></li>
                   <?php
                   }
                   ?>
-                </li>
+
               </ul>
             </div>
 
