@@ -3,7 +3,7 @@
   <div class="span4">
     <?php echo validation_errors(); ?>
     <form class="form-horizontal" action="./register" method="post">
-      <div class="control-group" style="display: inline-block;">
+      <div class="control-group">
         <label class="control-label" for="inputEmail">Email</label>
         <div class="controls">
           <input type="text" id="email" name="email" value="<?php echo set_value('email'); ?>" placeholder="Email">

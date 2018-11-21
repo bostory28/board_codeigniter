@@ -100,7 +100,7 @@ class Topic extends My_Controller {
   public function add() {
     if (!$this->session->userdata('is_login')) {
       $this->load->helper('url');
-      redirect('/auth/login');
+      redirect('/auth/login?returnURL='.rawurlencode(site_url('/topic/add')));
     }
 
     $this->_head();

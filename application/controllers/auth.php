@@ -9,7 +9,7 @@ class Auth extends My_Controller {
 	public function login() {
     $this->load->config('myconfig');
     $this->load->view('head');
-    $this->load->view('login');
+    $this->load->view('login', array('returnURL'=>$this->input->get('returnURL')));
     $this->_footer();
   }
 
@@ -21,7 +21,11 @@ class Auth extends My_Controller {
         password_verify($this->input->post('password'), $user->password)) {
       $this->session->set_userdata('is_login', true);
       $this->load->helper('url');
-      redirect("./topic/");
+      $returnURL = $this->input->get('returnURL');
+      if ($returnURL === false) {
+        $returnURL = '/topic/';
+      }
+      redirect($returnURL);
     } else {
       $this->session->set_flashdata('message', 'failed login');
       $this->load->helper('url');

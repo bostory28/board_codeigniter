@@ -2,7 +2,8 @@
   <div class="modal-header">
     <h3>Login</h3>
   </div>
-  <form class="form-horizontal" action="./authentication" method="post">
+
+  <form class="form-horizontal" action="./authentication?returnURL=<?php echo rawurlencode($returnURL) ?>" method="post">
     <div class="modal-body">
         <div class="control-group">
           <label class="control-label" for="inputEmail">Username</label>
