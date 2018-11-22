@@ -114,7 +114,31 @@ class Topic extends My_Controller {
       $this->load->view('add');
 		}	else {
 			$topic_id = $this->topic_model->add($this->input->post('title'), $this->input->post('description'));
+      //send message by email
+      $this->load->model('user_model');
+      $users = $this->user_model->gets();
+      $this->load->library('email');
       $this->load->helper('url');
+      $this->email->set_newline("\r\n");
+      $this->email->initialize(array(
+        'mailtype'=>'html',
+        'smtp_host'=>'ssl://smtp.googlemail.com',
+        'smtp_port'=>'465',
+        'charset'=>'utf-8',
+        'smtp_user'=>'aaa@gmail.com',
+        'smtp_pass'=>'',
+        'wordwrap'=> true,
+        'protocol'=>'smtp'
+      ));
+      foreach ($users as $user) {
+        $this->email->from('aaa@gmail.com');
+        $this->email->to($user->email);
+        $this->email->subject('New Article');
+        $this->email->message('<a href="'.site_url('/topic/'.$topic_id).'">'.$this->input->post('title').'</a>');
+        if(!$this->email->send()) {
+          show_error($this->email->print_debugger());
+        }
+      }
       redirect('/topic/'.$topic_id);
 		}
 

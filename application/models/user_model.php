@@ -17,4 +17,8 @@ class User_model extends CI_Model {
     $result = $this->db->get_where('user', array('email' => $option['email']))->row();
     return $result;
   }
+
+  function gets() {
+    return $this->db->query('SELECT * FROM user')->result();
+  }
 }

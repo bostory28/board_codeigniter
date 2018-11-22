@@ -523,7 +523,4 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
-$config['authentication'] = array(
-  'username' => 'bostory',
-  'password' => '111111'
-);
+$config['dev_receive_email'] = 'bostory28@gmail.com';
