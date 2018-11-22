@@ -2199,3 +2199,475 @@ DEBUG - 2018-11-22 07:32:19 --> Config file loaded: C:\Apache24\htdocs\board_cod
 DEBUG - 2018-11-22 07:32:19 --> ***loading get view
 DEBUG - 2018-11-22 07:32:19 --> ***loading footer
 DEBUG - 2018-11-22 07:32:19 --> Total execution time: 0.3100
+ERROR - 2018-11-22 08:32:00 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 22
+ERROR - 2018-11-22 08:33:05 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 22
+DEBUG - 2018-11-22 08:33:49 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:33:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 08:33:49 --> Severity: Notice --> Undefined property: Batch::$db C:\Apache24\htdocs\board_codeigniter\system\core\Model.php 73
+ERROR - 2018-11-22 08:33:49 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 22
+ERROR - 2018-11-22 08:34:27 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 22
+ERROR - 2018-11-22 08:35:13 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 22
+ERROR - 2018-11-22 08:35:38 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 22
+ERROR - 2018-11-22 08:36:41 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 5
+ERROR - 2018-11-22 08:37:36 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 5
+ERROR - 2018-11-22 08:38:01 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 5
+DEBUG - 2018-11-22 08:38:44 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:38:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:38:44 --> ***topic init
+DEBUG - 2018-11-22 08:38:44 --> ***execute get function
+DEBUG - 2018-11-22 08:38:44 --> ***loading head
+DEBUG - 2018-11-22 08:38:44 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 08:38:44 --> ***loading get view
+DEBUG - 2018-11-22 08:38:44 --> ***loading footer
+DEBUG - 2018-11-22 08:38:44 --> Total execution time: 0.2523
+DEBUG - 2018-11-22 08:38:45 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:38:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:38:45 --> ***topic init
+DEBUG - 2018-11-22 08:38:45 --> ***execute get function
+DEBUG - 2018-11-22 08:38:45 --> ***loading head
+DEBUG - 2018-11-22 08:38:45 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 08:38:45 --> ***loading get view
+DEBUG - 2018-11-22 08:38:45 --> ***loading footer
+DEBUG - 2018-11-22 08:38:45 --> Total execution time: 0.2565
+DEBUG - 2018-11-22 08:38:46 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:38:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:38:46 --> ***topic init
+DEBUG - 2018-11-22 08:38:46 --> ***execute get function
+DEBUG - 2018-11-22 08:38:46 --> ***loading head
+DEBUG - 2018-11-22 08:38:46 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 08:38:46 --> ***loading get view
+DEBUG - 2018-11-22 08:38:46 --> ***loading footer
+DEBUG - 2018-11-22 08:38:46 --> Total execution time: 0.2323
+DEBUG - 2018-11-22 08:38:47 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:38:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:38:47 --> ***topic init
+DEBUG - 2018-11-22 08:38:47 --> ***execute get function
+DEBUG - 2018-11-22 08:38:47 --> ***loading head
+DEBUG - 2018-11-22 08:38:47 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 08:38:47 --> ***loading get view
+DEBUG - 2018-11-22 08:38:47 --> ***loading footer
+DEBUG - 2018-11-22 08:38:47 --> Total execution time: 0.2576
+DEBUG - 2018-11-22 08:38:47 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:38:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:38:47 --> ***topic init
+DEBUG - 2018-11-22 08:38:47 --> ***execute get function
+DEBUG - 2018-11-22 08:38:47 --> ***loading head
+DEBUG - 2018-11-22 08:38:47 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 08:38:47 --> ***loading get view
+DEBUG - 2018-11-22 08:38:47 --> ***loading footer
+DEBUG - 2018-11-22 08:38:47 --> Total execution time: 0.2865
+DEBUG - 2018-11-22 08:38:47 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:38:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:38:48 --> ***topic init
+DEBUG - 2018-11-22 08:38:48 --> ***execute get function
+DEBUG - 2018-11-22 08:38:48 --> ***loading head
+DEBUG - 2018-11-22 08:38:48 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 08:38:48 --> ***loading get view
+DEBUG - 2018-11-22 08:38:48 --> ***loading footer
+DEBUG - 2018-11-22 08:38:48 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:38:48 --> Total execution time: 0.3196
+DEBUG - 2018-11-22 08:38:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:38:48 --> ***topic init
+DEBUG - 2018-11-22 08:38:48 --> ***execute get function
+DEBUG - 2018-11-22 08:38:48 --> ***loading head
+DEBUG - 2018-11-22 08:38:48 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 08:38:48 --> ***loading get view
+DEBUG - 2018-11-22 08:38:48 --> ***loading footer
+DEBUG - 2018-11-22 08:38:48 --> Total execution time: 0.3538
+ERROR - 2018-11-22 08:39:05 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 5
+ERROR - 2018-11-22 08:40:12 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\controllers\cli\Batch.php 9
+ERROR - 2018-11-22 08:40:34 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\controllers\cli\Batch.php 9
+DEBUG - 2018-11-22 08:40:39 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:40:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 08:40:39 --> Severity: Notice --> Undefined property: Batch::$db C:\Apache24\htdocs\board_codeigniter\application\controllers\cli\Batch.php 9
+ERROR - 2018-11-22 08:40:39 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\controllers\cli\Batch.php 9
+DEBUG - 2018-11-22 08:41:02 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:41:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 08:41:02 --> Severity: Notice --> Undefined property: Batch::$db C:\Apache24\htdocs\board_codeigniter\system\core\Model.php 73
+ERROR - 2018-11-22 08:41:02 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 5
+DEBUG - 2018-11-22 08:43:03 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:43:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:43:03 --> ***topic init
+DEBUG - 2018-11-22 08:43:03 --> ***execute get function
+DEBUG - 2018-11-22 08:43:03 --> ***loading head
+DEBUG - 2018-11-22 08:43:03 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 08:43:04 --> ***loading get view
+DEBUG - 2018-11-22 08:43:04 --> ***loading footer
+DEBUG - 2018-11-22 08:43:04 --> Total execution time: 0.2622
+DEBUG - 2018-11-22 08:43:16 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:43:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 08:43:16 --> Severity: Notice --> Undefined property: Batch::$db C:\Apache24\htdocs\board_codeigniter\system\core\Model.php 73
+ERROR - 2018-11-22 08:43:16 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 5
+DEBUG - 2018-11-22 08:43:27 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:43:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 08:43:27 --> Severity: Notice --> Undefined property: Batch::$db C:\Apache24\htdocs\board_codeigniter\system\core\Model.php 73
+ERROR - 2018-11-22 08:43:27 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\models\user_model.php 5
+DEBUG - 2018-11-22 08:45:03 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:45:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 08:45:03 --> Severity: Notice --> Undefined property: Batch::$db C:\Apache24\htdocs\board_codeigniter\application\controllers\cli\Batch.php 7
+ERROR - 2018-11-22 08:45:03 --> Severity: error --> Exception: Call to a member function database() on null C:\Apache24\htdocs\board_codeigniter\application\controllers\cli\Batch.php 7
+DEBUG - 2018-11-22 08:45:39 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 08:45:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 08:45:48 --> Total execution time: 9.0475
+DEBUG - 2018-11-22 09:03:19 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:03:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 09:03:19 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' C:\Apache24\htdocs\board_codeigniter\application\controllers\topic.php 119
+DEBUG - 2018-11-22 09:03:55 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:03:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:03:55 --> ***topic init
+DEBUG - 2018-11-22 09:03:55 --> ***execute get function
+DEBUG - 2018-11-22 09:03:55 --> ***loading head
+DEBUG - 2018-11-22 09:03:55 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:03:55 --> ***loading get view
+DEBUG - 2018-11-22 09:03:55 --> ***loading footer
+DEBUG - 2018-11-22 09:03:55 --> Total execution time: 0.2443
+DEBUG - 2018-11-22 09:03:57 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:03:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:03:57 --> ***topic init
+DEBUG - 2018-11-22 09:03:57 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:03:57 --> Total execution time: 0.1530
+DEBUG - 2018-11-22 09:04:18 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:04:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:04:18 --> ***topic init
+DEBUG - 2018-11-22 09:04:18 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:04:18 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:04:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:04:18 --> ***topic init
+DEBUG - 2018-11-22 09:04:18 --> ***execute get function
+DEBUG - 2018-11-22 09:04:18 --> ***loading head
+DEBUG - 2018-11-22 09:04:18 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:04:18 --> ***loading get view
+DEBUG - 2018-11-22 09:04:18 --> ***loading footer
+DEBUG - 2018-11-22 09:04:18 --> Total execution time: 0.2323
+DEBUG - 2018-11-22 09:04:53 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:04:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:04:53 --> ***topic init
+DEBUG - 2018-11-22 09:04:53 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:04:53 --> Total execution time: 0.1857
+DEBUG - 2018-11-22 09:05:48 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:05:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:05:48 --> ***topic init
+DEBUG - 2018-11-22 09:05:48 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:05:48 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:05:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:05:48 --> ***topic init
+DEBUG - 2018-11-22 09:05:48 --> ***execute get function
+DEBUG - 2018-11-22 09:05:48 --> ***loading head
+DEBUG - 2018-11-22 09:05:48 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:05:48 --> ***loading get view
+DEBUG - 2018-11-22 09:05:48 --> ***loading footer
+DEBUG - 2018-11-22 09:05:48 --> Total execution time: 0.2188
+DEBUG - 2018-11-22 09:21:54 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:21:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 09:21:54 --> Severity: Notice --> Undefined property: Batch::$db C:\Apache24\htdocs\board_codeigniter\system\core\Model.php 73
+ERROR - 2018-11-22 09:21:54 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\batch_model.php 11
+ERROR - 2018-11-22 09:22:52 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\batch_model.php 11
+DEBUG - 2018-11-22 09:23:02 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:23:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 09:23:02 --> Severity: Notice --> Undefined property: Batch::$db C:\Apache24\htdocs\board_codeigniter\system\core\Model.php 73
+ERROR - 2018-11-22 09:23:02 --> Severity: error --> Exception: Call to a member function query() on null C:\Apache24\htdocs\board_codeigniter\application\models\batch_model.php 11
+DEBUG - 2018-11-22 09:23:44 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:23:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 09:23:44 --> Severity: Notice --> Undefined variable: topic_id C:\Apache24\htdocs\board_codeigniter\application\controllers\cli\batch.php 36
+DEBUG - 2018-11-22 09:25:28 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:25:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 09:25:28 --> Severity: Notice --> Undefined property: stdClass::$topic_id C:\Apache24\htdocs\board_codeigniter\application\controllers\cli\batch.php 36
+DEBUG - 2018-11-22 09:25:47 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:25:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:26:52 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:26:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:27:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2018-11-22 09:27:11 --> Total execution time: 18.5791
+DEBUG - 2018-11-22 09:28:05 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:06 --> ***topic init
+DEBUG - 2018-11-22 09:28:06 --> ***execute get function
+DEBUG - 2018-11-22 09:28:06 --> ***loading head
+DEBUG - 2018-11-22 09:28:06 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:06 --> ***loading get view
+DEBUG - 2018-11-22 09:28:06 --> ***loading footer
+DEBUG - 2018-11-22 09:28:06 --> Total execution time: 0.3059
+DEBUG - 2018-11-22 09:28:06 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:07 --> ***topic init
+DEBUG - 2018-11-22 09:28:07 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:07 --> ***topic init
+DEBUG - 2018-11-22 09:28:07 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:07 --> Total execution time: 0.1815
+DEBUG - 2018-11-22 09:28:07 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:07 --> ***topic init
+DEBUG - 2018-11-22 09:28:07 --> ***execute get function
+DEBUG - 2018-11-22 09:28:07 --> ***loading head
+DEBUG - 2018-11-22 09:28:08 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:08 --> ***loading get view
+DEBUG - 2018-11-22 09:28:08 --> ***loading footer
+DEBUG - 2018-11-22 09:28:08 --> Total execution time: 0.2573
+DEBUG - 2018-11-22 09:28:08 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:08 --> ***topic init
+DEBUG - 2018-11-22 09:28:08 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:09 --> ***topic init
+DEBUG - 2018-11-22 09:28:09 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:09 --> Total execution time: 0.2021
+DEBUG - 2018-11-22 09:28:09 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:09 --> ***topic init
+DEBUG - 2018-11-22 09:28:09 --> ***execute get function
+DEBUG - 2018-11-22 09:28:09 --> ***loading head
+DEBUG - 2018-11-22 09:28:09 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:09 --> ***loading get view
+DEBUG - 2018-11-22 09:28:09 --> ***loading footer
+DEBUG - 2018-11-22 09:28:09 --> Total execution time: 0.2596
+DEBUG - 2018-11-22 09:28:10 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:10 --> ***topic init
+DEBUG - 2018-11-22 09:28:10 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:10 --> ***topic init
+DEBUG - 2018-11-22 09:28:10 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:10 --> Total execution time: 0.1735
+DEBUG - 2018-11-22 09:28:12 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:12 --> ***topic init
+DEBUG - 2018-11-22 09:28:12 --> ***execute get function
+DEBUG - 2018-11-22 09:28:12 --> ***loading head
+DEBUG - 2018-11-22 09:28:12 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:12 --> ***loading get view
+DEBUG - 2018-11-22 09:28:12 --> ***loading footer
+DEBUG - 2018-11-22 09:28:12 --> Total execution time: 0.2656
+DEBUG - 2018-11-22 09:28:13 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:13 --> ***topic init
+DEBUG - 2018-11-22 09:28:13 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:13 --> ***topic init
+DEBUG - 2018-11-22 09:28:13 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:13 --> Total execution time: 0.1591
+DEBUG - 2018-11-22 09:28:14 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:15 --> ***topic init
+DEBUG - 2018-11-22 09:28:15 --> ***execute get function
+DEBUG - 2018-11-22 09:28:15 --> ***loading head
+DEBUG - 2018-11-22 09:28:15 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:15 --> ***loading get view
+DEBUG - 2018-11-22 09:28:15 --> ***loading footer
+DEBUG - 2018-11-22 09:28:15 --> Total execution time: 0.2658
+DEBUG - 2018-11-22 09:28:15 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:15 --> ***topic init
+DEBUG - 2018-11-22 09:28:16 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:16 --> Total execution time: 0.1549
+DEBUG - 2018-11-22 09:28:33 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:33 --> ***topic init
+DEBUG - 2018-11-22 09:28:33 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:33 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:34 --> ***topic init
+DEBUG - 2018-11-22 09:28:34 --> ***execute get function
+DEBUG - 2018-11-22 09:28:34 --> ***loading head
+DEBUG - 2018-11-22 09:28:34 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:34 --> ***loading get view
+DEBUG - 2018-11-22 09:28:34 --> ***loading footer
+DEBUG - 2018-11-22 09:28:34 --> Total execution time: 0.2423
+DEBUG - 2018-11-22 09:28:38 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:48 --> Total execution time: 9.5599
+DEBUG - 2018-11-22 09:28:51 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 09:28:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 09:28:51 --> ***topic init
+DEBUG - 2018-11-22 09:28:51 --> ***execute get function
+DEBUG - 2018-11-22 09:28:51 --> ***loading head
+DEBUG - 2018-11-22 09:28:51 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 09:28:51 --> ***loading get view
+DEBUG - 2018-11-22 09:28:51 --> ***loading footer
+DEBUG - 2018-11-22 09:28:51 --> Total execution time: 0.2385
+DEBUG - 2018-11-22 10:03:31 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:03:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:03:31 --> ***topic init
+DEBUG - 2018-11-22 10:03:31 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:03:31 --> Total execution time: 0.1855
+DEBUG - 2018-11-22 10:03:34 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:03:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:03:34 --> ***topic init
+DEBUG - 2018-11-22 10:03:34 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:03:34 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:03:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:03:34 --> ***topic init
+DEBUG - 2018-11-22 10:03:34 --> ***execute get function
+DEBUG - 2018-11-22 10:03:34 --> ***loading head
+DEBUG - 2018-11-22 10:03:34 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:03:34 --> ***loading get view
+DEBUG - 2018-11-22 10:03:34 --> ***loading footer
+DEBUG - 2018-11-22 10:03:34 --> Total execution time: 0.2283
+DEBUG - 2018-11-22 10:26:02 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:26:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:26:02 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:26:02 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:27:42 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:27:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:27:42 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:27:42 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:27:48 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:27:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:27:48 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:27:48 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:28:18 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:28:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:28:18 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:28:18 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:28:25 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:30:41 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:30:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:30:41 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:30:41 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:31:59 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:31:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:31:59 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:31:59 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:32:00 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:32:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:32:01 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:32:01 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:32:47 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:32:48 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:32:55 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:32:56 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:34:29 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:34:30 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:37:36 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:37:36 --> No URI present. Default controller set.
+DEBUG - 2018-11-22 10:37:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:37:36 --> ***topic init
+DEBUG - 2018-11-22 10:37:36 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:37:36 --> Total execution time: 0.1200
+DEBUG - 2018-11-22 10:40:06 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:40:06 --> No URI present. Default controller set.
+DEBUG - 2018-11-22 10:40:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:40:06 --> ***topic init
+DEBUG - 2018-11-22 10:40:07 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:40:07 --> Total execution time: 0.1519
+DEBUG - 2018-11-22 10:43:06 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:43:06 --> No URI present. Default controller set.
+DEBUG - 2018-11-22 10:43:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:43:06 --> ***topic init
+DEBUG - 2018-11-22 10:43:06 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:43:06 --> Total execution time: 0.1174
+DEBUG - 2018-11-22 10:43:21 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:43:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:43:21 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:43:21 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:43:22 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:43:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:43:22 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:43:22 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:43:49 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:43:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:43:49 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:43:49 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:43:50 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:43:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:43:50 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:43:50 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:44:02 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:44:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:44:02 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:44:02 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:44:19 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:44:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:44:19 --> Total execution time: 0.1603
+DEBUG - 2018-11-22 10:44:46 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:44:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:44:46 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:44:46 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:44:47 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:44:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:44:47 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:44:47 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:45:10 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:45:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:45:20 --> Total execution time: 10.2448
+DEBUG - 2018-11-22 10:45:30 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:45:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:45:30 --> Total execution time: 0.1043
+DEBUG - 2018-11-22 10:46:02 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:02 --> No URI present. Default controller set.
+DEBUG - 2018-11-22 10:46:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:46:02 --> ***topic init
+DEBUG - 2018-11-22 10:46:02 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:46:02 --> Total execution time: 0.2052
+DEBUG - 2018-11-22 10:46:03 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-11-22 10:46:03 --> Severity: Notice --> Undefined property: CI_Loader::$session C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+ERROR - 2018-11-22 10:46:03 --> Severity: error --> Exception: Call to a member function userdata() on null C:\Apache24\htdocs\board_codeigniter\application\views\head.php 35
+DEBUG - 2018-11-22 10:46:04 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:04 --> No URI present. Default controller set.
+DEBUG - 2018-11-22 10:46:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:46:04 --> ***topic init
+DEBUG - 2018-11-22 10:46:04 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:46:04 --> Total execution time: 0.1557
+DEBUG - 2018-11-22 10:46:09 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:46:09 --> ***topic init
+DEBUG - 2018-11-22 10:46:09 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:46:09 --> Total execution time: 0.1791
+DEBUG - 2018-11-22 10:46:10 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:46:10 --> ***topic init
+DEBUG - 2018-11-22 10:46:10 --> ***execute get function
+DEBUG - 2018-11-22 10:46:10 --> ***loading head
+DEBUG - 2018-11-22 10:46:10 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:46:11 --> ***loading get view
+DEBUG - 2018-11-22 10:46:11 --> ***loading footer
+DEBUG - 2018-11-22 10:46:11 --> Total execution time: 0.2474
+DEBUG - 2018-11-22 10:46:12 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:46:12 --> ***topic init
+DEBUG - 2018-11-22 10:46:12 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:46:12 --> Total execution time: 0.1814
+DEBUG - 2018-11-22 10:46:15 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:46:16 --> ***topic init
+DEBUG - 2018-11-22 10:46:16 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:46:16 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:46:16 --> ***topic init
+DEBUG - 2018-11-22 10:46:16 --> ***execute get function
+DEBUG - 2018-11-22 10:46:16 --> ***loading head
+DEBUG - 2018-11-22 10:46:16 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:46:16 --> ***loading get view
+DEBUG - 2018-11-22 10:46:16 --> ***loading footer
+DEBUG - 2018-11-22 10:46:16 --> Total execution time: 0.2382
+DEBUG - 2018-11-22 10:46:38 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:46:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:46:47 --> Total execution time: 9.7685
+DEBUG - 2018-11-22 10:47:23 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:47:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:47:23 --> Total execution time: 0.1011
+DEBUG - 2018-11-22 10:47:27 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:47:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:47:27 --> ***topic init
+DEBUG - 2018-11-22 10:47:27 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:47:27 --> Total execution time: 0.1773
+DEBUG - 2018-11-22 10:47:30 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:47:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:47:30 --> ***topic init
+DEBUG - 2018-11-22 10:47:30 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:47:31 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:47:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:47:31 --> ***topic init
+DEBUG - 2018-11-22 10:47:31 --> ***execute get function
+DEBUG - 2018-11-22 10:47:31 --> ***loading head
+DEBUG - 2018-11-22 10:47:31 --> Config file loaded: C:\Apache24\htdocs\board_codeigniter\application\config/development\myconfig.php
+DEBUG - 2018-11-22 10:47:31 --> ***loading get view
+DEBUG - 2018-11-22 10:47:31 --> ***loading footer
+DEBUG - 2018-11-22 10:47:31 --> Total execution time: 0.2549
+DEBUG - 2018-11-22 10:48:20 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:48:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:48:28 --> Total execution time: 8.0652
+DEBUG - 2018-11-22 10:49:20 --> UTF-8 Support Enabled
+DEBUG - 2018-11-22 10:49:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-22 10:49:20 --> Total execution time: 0.0958

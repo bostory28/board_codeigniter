@@ -2,6 +2,9 @@
 class My_Controller extends CI_Controller {
   function __construct() {
     parent::__construct();
+    if (!$this->input->is_cli_request()) {
+      $this->load->library('session');
+    }
   }
 
   public function _footer() {
