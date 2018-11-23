@@ -1,0 +1,82 @@
+a:2:{s:6:"expire";i:1542938945;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="/board_codeigniter/static/css/head.css">
+        <!-- Bootstrap -->
+        <link href="/board_codeigniter/static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <style type="text/css">
+          body{
+            padding-top: 60px;
+          }
+        </style>
+        <link href="/board_codeigniter/static/lib/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    </head>
+    <body>
+      <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+          <div class="container">
+
+            <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+            <!-- Be sure to leave the brand out there if you want it shown -->
+            <a class="brand" href="#">Cedeigniter study</a>
+
+            <!-- Everything you want hidden at 940px or less, place within here -->
+            <div class="nav-collapse collapse">
+              <ul class="nav pull-right">
+                                      <li><a href="../auth/login">Login</a></li>
+                    <li><a href="../auth/register">Register</a></li>
+                  
+              </ul>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="container">
+                <div class="well">
+          This page is a development environment
+        </div>
+                <div class="row-fluid">
+<div class="span2">
+  <ul class="nav nav-tabs nav-stacked">
+      <li> <a href="./2">변수와 상수</a></li>
+      <li> <a href="./3">연산자</a></li>
+      <li> <a href="./4">JSON</a></li>
+      <li> <a href="./5">반복문이란</a></li>
+      <li> <a href="./20">조건문이란</a></li>
+      <li> <a href="./28">Codeignitor</a></li>
+      <li> <a href="./30">이미지 테스트</a></li>
+      <li> <a href="./122">JSON이란</a></li>
+      <li> <a href="./123">React</a></li>
+      <li> <a href="./124">Codeignitor</a></li>
+      <li> <a href="./125">ㅁㅁㅁ</a></li>
+      <li> <a href="./126">aaa</a></li>
+      <li> <a href="./127">bbb</a></li>
+    </ul>
+</div>
+<div class="span10">
+  <article>
+    <h1>JSON</h1>
+    <div>
+      <div>2018년 11월 16일, 0시 26분 56초</div>
+      <h2>JSON이란?</h2><p>서로 다른 언어들간에 데이터를 주고 받는 여러 방법이 있다. 대표적인 것이 XML인데, XML은 문법이 복잡하고, 엄격한 표현규칙으로 인해서 json 대비 데이터의 용량이 커진다는 단점이 있다.</p><p>JSON은 경량의 데이터 교환 형식으로 JavaScript에서 숫자와 배열등을 만드는 형식을 차용해서 이것을 다른 언어에서도 사용할 수 있도록 한 텍스트 형식이다.&nbsp;</p><p>아래 예제는 위의 예제에서 전송한 데이터를 받아서 몇가지 부가정보를 추가해서 json으로 인코드한 후에 다시 반환하는 PHP 코드다.&nbsp;</p><p>json.php - (<a href=\"<a href="https://github.com/egoing/codingeverybody_javascript/blob/master/JSON/json.php">https://github.com/egoing/codingeverybody_javascript/blob/master/JSON/json.php</a>\" target=\"_blank\">github</a>)</p><pre class=\"brush: php\">&lt;?php$userinfo = json_decode($_GET[&#39;data&#39;]);$userinfo-&gt;address = &#39;seoul&#39;;$userinfo-&gt;phonenumber = &#39;01023456789&#39;;echo json_encode($userinfo);?&gt;</pre><h2>json의 형식</h2><h3>object</h3><p>객체는 아래와 같은 문법을 가지고 있다.</p><p>예제</p><p>{&quot;userid&quot;:&quot;egoing&quot;,&quot;pwd&quot;:&quot;12345567&quot;}</p><p><img height=\"113\" src=\"<a href="http://www.json.org/object.gif">http://www.json.org/object.gif</a>\" width=\"598\" /></p><h3>array</h3><p>배열은 아래와 같은 문법을 가지고 있다.&nbsp;</p><p>예제</p><p>[1,2,3,4]</p><p><img height=\"113\" src=\"<a href="http://www.json.org/array.gif">http://www.json.org/array.gif</a>\" style=\"line-height: 1.8em;\" width=\"598\" /></p><h3>Value</h3><p>위에서 사용된 Value는 값을 의미하는데&nbsp;큰 따옴표로 묶인 문자나 숫자, 불린 값이 사용된다.</p><p>예제</p><ul>  <li>문자 : &quot;헬로우 월드&quot;</li>    <li>숫자 : 1</li> <li>불린 : true</li></ul><p><img height=\"278\" src=\"<a href="http://www.json.org/value.gif">http://www.json.org/value.gif</a>\" width=\"598\" /></p>    </div>
+  </article>
+  <div>
+    <a href="./add" class="btn">ADD</a>
+    <a href="./remove/4" class="btn">REMOVE</a>
+  </div>
+</div>
+      </div>
+    </div>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="/board_codeigniter/static/lib/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>

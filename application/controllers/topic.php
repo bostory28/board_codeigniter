@@ -118,6 +118,8 @@ class Topic extends My_Controller {
       $this->load->model('batch_model');
       $this->batch_model->add(array('job_name'=>'notify_email_add_topic', 'context'=>json_encode(array('topic_id'=>$topic_id))));
 
+      $this->cache->delete('topics');
+
       $this->load->helper('url');
       redirect('/topic/'.$topic_id);
 		}
@@ -127,6 +129,7 @@ class Topic extends My_Controller {
 
   public function remove($topic_id) {
     $this->topic_model->remove($topic_id);
+    $this->cache->delete('topics');
     $this->load->helper('url');
     redirect('/topic/');
   }
